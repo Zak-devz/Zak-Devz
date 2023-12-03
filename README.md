@@ -4,7 +4,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=zak-devz&label=Profile%20views&color=0e75b6&style=flat" alt="zak-devz" /> </p>
 
- 🌱 I’m currently learning **React Native**
+ 🌱 I’m currently learning **React.Js**
 
  📫 How to reach me **Zakariarassili@gmail.com**
 
